@@ -1,0 +1,54 @@
+.text-header {
+	TEXT-TRANSFORM: capitalize; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ff6600; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.pageContent {
+	FONT-FAMILY: Tahoma, sans-serif; COLOR: #8d8d8d; FONT-SIZE: 8pt
+}
+.pageContent A {
+	FONT-FAMILY: Tahoma, sans-serif; COLOR: #8d8d8d; FONT-SIZE: 8pt
+}
+.company {
+	TEXT-TRANSFORM: uppercase; FONT-FAMILY: "Arial Narrow", Arial, sans-serif; COLOR: #666666; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+}
+.slogan {
+	FONT-FAMILY: Arial Narrow, Arial, sans-serif; COLOR: #999999; FONT-SIZE: 8pt; FONT-WEIGHT: bold
+}
+.menu {
+	TEXT-TRANSFORM: uppercase; FONT-FAMILY: Tahoma, sans-serif; COLOR: #ffffff; FONT-SIZE: 8pt; TEXT-DECORATION: none
+}
+.amenu {
+	TEXT-TRANSFORM: uppercase; FONT-FAMILY: Tahoma, sans-serif; COLOR: #ffffff; FONT-SIZE: 8pt; TEXT-DECORATION: underline
+}
+.submenu {
+	FONT-FAMILY: Tahoma, sans-serif; COLOR: #666666; FONT-SIZE: 8pt; TEXT-DECORATION: none
+}
+.asubmenu {
+	FONT-FAMILY: Tahoma, sans-serif; COLOR: #666666; FONT-SIZE: 8pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.bmenu {
+	FONT-FAMILY: Tahoma, sans-serif; COLOR: #666666; FONT-SIZE: 8pt; TEXT-DECORATION: none
+}
+.abmenu {
+	FONT-FAMILY: Tahoma, sans-serif; COLOR: #666666; FONT-SIZE: 8pt; TEXT-DECORATION: underline
+}
+.footer {
+	FONT-FAMILY: Tahoma, sans-serif; COLOR: #666666; FONT-SIZE: 8pt
+}
+.FOOTERLIST {
+	FONT-FAMILY: Tahoma, sans-serif; COLOR: #ffffff; FONT-SIZE: 10px
+}
+.submenu-bg {
+	BACKGROUND-COLOR: #4e8bc1
+}
+.menu-hr {
+	BACKGROUND-COLOR: #cccccc
+}
+.line {
+	BACKGROUND-COLOR: #cacaca
+}
+.navigation {
+	COLOR: #ffffff; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.text_head {
+	COLOR: #ff5400; FONT-WEIGHT: bold
+}
